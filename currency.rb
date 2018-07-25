@@ -49,7 +49,10 @@ choice = gets.chomp().to_i
  
 case choice
 when 1
-  #code here
+ def usd_to_eur(usd)
+  usd - 0.17
+end
+end
 when 2
   #code here
 when 3
