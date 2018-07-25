@@ -51,6 +51,7 @@ case choice
 when 1
  def usd_to_eur(amount)
  puts "#{amount - 0.17}"
+ end
 end
 
 when 2
