@@ -52,7 +52,7 @@ when 1
  def usd_to_eur(usd)
   usd - 0.17
 end
-end
+
 when 2
   #code here
 when 3
