@@ -50,7 +50,7 @@ choice = gets.chomp().to_i
 case choice
 when 1
  def usd_to_eur(usd)
-  usd - 0.17
+ puts usd - 0.17
 end
 
 when 2
