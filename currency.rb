@@ -48,7 +48,7 @@ puts "8. AUD to USD"
 choice = gets.chomp().to_i
  
 case choice
-when 1 (amount)
+when 1
  puts "#{amount - 0.17}"
 when 2
   #code here
