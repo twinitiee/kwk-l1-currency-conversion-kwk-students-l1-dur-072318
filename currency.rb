@@ -51,7 +51,6 @@ case choice
 when 1
  puts "hi"
 end
-
 when 2
   #code here
 when 3
