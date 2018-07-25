@@ -49,8 +49,7 @@ choice = gets.chomp().to_i
  
 case choice
 when 1
- def usd_to_eur(amount)
- puts "#{amount - 0.17}"
+ puts "hi"
 end
 
 when 2
